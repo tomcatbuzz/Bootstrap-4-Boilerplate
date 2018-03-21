@@ -1,4 +1,4 @@
-# Bootstrap 4 Beta 2 Boilerplate
+# Bootstrap 4 Boilerplate
 
 This is a simple Bootstrap template with responsive Navbar.
 This for educational use.
@@ -11,7 +11,7 @@ when you are in mobile sizes.
 
 ## Built With and additional components
 
-* [Bootstrap 4 Beta 2](http://getbootstrap.com/) - The web framework used
+* [Bootstrap 4](http://getbootstrap.com/) - The web framework used
 * [Jquery](https://jquery.com/) - For future work in the project
 * [FontAwesome](http://fontawesome.io/) - Can be used for creating icons
 * [Popperjs](https://popper.js.org/)- Included as CDN for future use
